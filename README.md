@@ -8,39 +8,7 @@ A simple **Hostel Management System** built using **C++** for beginner to interm
 - 🔎 **Search Student**: Find a student by ID.
 - ❌ **Exit**: Ends the program.
 
-## 🛠️ Installation
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/hostel-management-system.git
-   cd hostel-management-system
-   ```
-2. Compile the code using g++:
-   ```sh
-   g++ -o hostel_management hostel_management.cpp
-   ```
-3. Run the program:
-   ```sh
-   ./hostel_management
-   ```
-
-## 🚀 Usage
-1. Run the executable and select options from the menu.
-2. Enter student details when prompted.
-3. Search for a student using their ID.
-4. Exit when done.
 
 ## 📸 Screenshots
-### 🏷️ Menu:
-![Menu Screenshot](./screenshots/menu.png)
-
-### 📝 Adding a Student:
-![Add Student Screenshot](./screenshots/add_student.png)
-
-### 🔎 Searching for a Student:
-![Search Student Screenshot](./screenshots/search_student.png)
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📬 Contact
-For any issues or feature requests, feel free to reach out!
+![oodp 1](https://github.com/user-attachments/assets/8efad150-dcf4-445e-a17c-ca0be7d522bf)
+![oodp2](https://github.com/user-attachments/assets/1743ef69-28c1-4790-abaa-78cf26a3d1f4)
