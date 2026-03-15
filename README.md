@@ -1,7 +1,7 @@
 # 📚 Student Records Manager Using OOP
 
 A simple **Student Records Manager** built in C++ using Object-Oriented Programming (OOP) concepts and file handling.  
-This project allows the management of hostel student records such as adding, displaying, searching, updating, and deleting student details.
+This project allows the management of hostel student records such as adding, displaying, searching, updating, and deleting student (details).
 
 ---
 
